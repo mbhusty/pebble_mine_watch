@@ -1,0 +1,45 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "mbhusty@gmail.com",
+    "longName": "MINE WATCH",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/logo11.png",
+                "menuIcon": true,
+                "name": "LOGO",
+                "type": "png"
+            },
+            {
+                "file": "images/bg.png",
+                "name": "BACK_GROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/font.ttf",
+                "name": "MINECRAFT_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/font.ttf",
+                "name": "MINECRAFT_34",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "MINE WATCH",
+    "uuid": "57b7f408-128a-4956-83e2-fa5074078cae",
+    "versionCode": 1,
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
